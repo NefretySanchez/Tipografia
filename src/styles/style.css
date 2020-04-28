@@ -1,0 +1,37 @@
+@font-face{
+    font-family: 'Qanelas ExtraBold';
+    src: url(QanelasSoftDEMO-ExtraBold.otf)
+}
+
+@font-face{
+    font-family: "Qanelas Light";
+    src: url(QanelasSoftDEMO-UltraLight.otf);
+}
+
+
+
+.container{
+    background-image: url(background-1462755_960_720.jpg);
+    background-size: cover;
+    width: 99%;
+    position: absolute;
+}
+
+.letra{
+    font-family: 'Qanelas ExtraBold';
+    font-size: 18em;
+    margin: 0;
+    color: #ffffff ;
+}
+
+.nombre{
+    font-family: 'Qanelas Light';
+    font-size: 10em;
+    margin: 0;
+    margin-left: 40%;
+    color: #fffacd;
+}
+
+.item{
+    text-align: center;
+}
